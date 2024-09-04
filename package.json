@@ -18,6 +18,6 @@
   "homepage": "https://github.com/zaramme/checklistforfullstack#readme",
   "dependencies": {
     "zenn": "^0.9.14",
-    "zenn-cli": "^0.1.34"
+    "zenn-cli": "^0.1.155"
   }
 }
